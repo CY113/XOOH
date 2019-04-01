@@ -25,8 +25,3 @@ xooh：抓取代码部分，其中
 ##### middlewares：  
 &emsp;&emsp;XoohHeadersMiddleware：使数据变为json格式  
 &emsp;&emsp;XoohProxyMiddleware：代理中间件
-## 4.数据库信息
-MYSQL数据库地址：'db.test.moheah.com'  
-MYSQL数据库名字：'xoohdb'  
-MYSQL数据库账号= 'xoohdb'  
-MYSQL数据库密码 = 'Xoohdb!!'
