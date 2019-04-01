@@ -91,10 +91,10 @@ ITEM_PIPELINES = {
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
-MYSQL_HOST = 'db.test.moheah.com'
+MYSQL_HOST = '127.0.0.1'
 MYSQL_DBNAME = 'xoohdb'  # 数据库名字
 MYSQL_USER = 'xoohdb'  # 数据库账号
-MYSQL_PASSWD = 'Xoohdb!!'  # 数据库密码
+MYSQL_PASSWD = '123456'  # 数据库密码
 
 MONGODB_HOST = '127.0.0.1'
 # 端口号，默认27017
